@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shagor7
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently worning with ...node.js, nestJS framework
+- 🌱 I’m currently working with ...node.js, nestJS, Prisma, GraphQL
 - 💞️ I’m looking to collaborate on ...BYSL global tech
 - 📫 How to reach me ...mdsagorparvez@gmail.com
 
